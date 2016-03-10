@@ -1,0 +1,17 @@
+details{
+	display: block;
+}
+
+summary{
+	font-weight: bold;
+}
+
+dt{
+	text-decoration: underline;
+}
+
+dd{
+	margin-left:1em;
+	margin-bottom: 0.3em;
+	font-style: italic;
+}
